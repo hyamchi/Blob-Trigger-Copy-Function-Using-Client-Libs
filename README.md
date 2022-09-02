@@ -9,7 +9,8 @@ $ pip install -r requirements.txt
 $ func start
 ```
 You should have a `local.settings.json` file in the root dir of the project and specify the values for connection strings and AzurewebJobsStorage:
-image.png
+![Untitled4](https://user-images.githubusercontent.com/84933778/188228950-2aee732a-b37b-4bdf-95c0-d3c4b0372a57.png)
+
 
 To get the connection string for an Azure Storage Account go to the storage account and from the left pane select “Access Keys” and then click on “Show” and copy the value.
 ![Untitled1](https://user-images.githubusercontent.com/84933778/187779260-a68254d2-00e7-4cac-9b54-14b75e5068dc.png)
