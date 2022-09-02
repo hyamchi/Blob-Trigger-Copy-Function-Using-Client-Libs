@@ -29,6 +29,6 @@ To test the function in Azure, you need to store the connection values in the Fu
 
 For more info refer to the following links:
 
-https://azuresdkdocs.blob.core.windows.net/$web/python/azure-storage-blob/12.0.0/azure.storage.blob.html#subpackages
+https://azuresdkdocs.blob.core.windows.net/$web/python/azure-storage-blob/12.0.0/azure.storage.blob.html#
 
 
