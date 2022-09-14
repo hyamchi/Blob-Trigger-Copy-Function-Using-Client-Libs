@@ -2,6 +2,9 @@
 ### Copy a blob with Client libraries
 This function gets triggered when a new blob is created in the source container and makes a copy of the new blob in the destination container with the help of **Client Libraries**. 
 
+My blog about this project:
+https://medium.com/@yamchi/python-blob-triggered-azure-function-to-copy-a-newly-created-blob-to-a-backup-container-5f5a82a24ad4
+
 # Local Testing:
 Initially install the requirements and then start the function:
 ```
